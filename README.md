@@ -1,4 +1,4 @@
-# https-tuta004.github.com-
+# https-tuta004.github.io-
 <html>
     <head>
         <title>tuta004</title>
